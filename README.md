@@ -36,7 +36,7 @@ import Desenvolvedora from 'fishixzschool;
 class SobreMim extends Programador {
   nome     = 'Edmundo Luis';
   area    = 'Front-end';
-  trabalho  = 'Atualmente Estudo;
+  trabalho  = 'Atualmente Estudo´;
   local = 'São Paulo, SP';
   pronomes = 'ele / dele';
 }
