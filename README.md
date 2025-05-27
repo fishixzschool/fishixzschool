@@ -1,4 +1,4 @@
-## Olá, pode me chamar de Edy! 👋
+## Olá, Aqui está Edy! 👋
 
 <div align="right">
 
