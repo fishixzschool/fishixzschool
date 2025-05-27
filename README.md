@@ -2,12 +2,12 @@
 
 <div align="right">
 
-#### Perfil em Português: <kbd>[<img title="Portuguese" alt="Portuguese" src="https://img.icons8.com/?size=100&id=iHI2gDXCsMzH&format=png&color=000000" width="22">](https://github.com/AnaProgramando/AnaProgramando/blob/main/README-us.md)</kbd>
+#### Perfil em Português: <kbd>[<img title="Portuguese" alt="Portuguese" src="https://img.icons8.com/?size=100&id=iHI2gDXCsMzH&format=png&color=000000" width="22">](https://github.com/fishixzschool/fishixzschool)</kbd>
 
 </div>
 
 <div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/AnaProgramando/blob/01aedc336431ca8444347703ce043252a085eb6f/banner_welcome.png"/>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://raw.githubusercontent.com/fishixzschool/fishixzschool/refs/heads/main/banner_bemvindo.jpg"/>
 </div>
 
 <div align="right">
