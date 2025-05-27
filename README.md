@@ -107,7 +107,6 @@ class SobreMim extends Programador {
 Conecte-se comigo em outras redes! Se precisar de ajuda ou tiver dúvidas e sugestões, me mande uma mensagem 😉
 
 [<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:00001131681502sp@al.educacao.sp.gov.br)
-[<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/edmundo-luiz)
 [<img align="left" alt="GitHub" src="https://img.shields.io/github/followers/fishixzschool?style=social&label=@fishixzschool"/>](https://github.com/fishixzschool)
 [<img align="left" alt="Codepen" src="https://img.shields.io/static/v1?label&message=/fishixzschool&color=000000&style=flat&logo=codepen"/>](https://codepen.io/fishixzschool)
   
