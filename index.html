@@ -547,7 +547,7 @@
         image: "https://i.imgur.com/PBnK2Pb.png",
         tags: ["Website", "School", "Scripts"],
         isWebsite: true,
-        url: "https://raposamodz.store/CMSP-Hacks/"
+        url: "https://fishixzschool.github.io/CMSP-Hacks/"
       },
       {
         title: "Night ToolBox",
@@ -555,7 +555,7 @@
         image: "https://i.imgur.com/dVZTmoH.png",
         tags: ["Program", "Optimizer", "Batch"],
         isWebsite: true,
-        url: "https://raposamodz.store/NightBox/"
+        url: "https://fishixzschool.github.io/NightBox/"
       },
       {
         title: "Dark-OSINT",
@@ -563,7 +563,7 @@
         image: "https://i.imgur.com/z4HBavF.png",
         tags: ["Website", "OSINT", "Search & Info"],
         isWebsite: true,
-        url: "https://raposamodz.store/Dark-OSINT/"
+        url: "https://fishixzschool.github.io/Dark-OSINT/"
       }
     ];
 
@@ -611,7 +611,7 @@
             localStorage.setItem('lastProfileUpdate', now.toString());
           } catch {
             DiscordProfile.update({ 
-              global_name: "<\\DarkMode>", 
+              global_name: "RAPOSA MODZ", 
               avatar: { link: "https://cdn.discordapp.com/embed/avatars/0.png" } 
             });
           }
@@ -619,7 +619,7 @@
       },
       
       update: (data) => {
-        DOM.username.textContent = data.global_name || "<\\DarkMode>";
+        DOM.username.textContent = data.global_name || "RAPOSA MODZ";
         DOM.avatar.src = data.avatar?.link || "https://cdn.discordapp.com/embed/avatars/0.png";
       }
     };
